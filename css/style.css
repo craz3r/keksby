@@ -318,8 +318,7 @@ h2
 .cat-reference h3
 {
     font-size: 24px;
-    font-weight: bold:;
-    line-height: auto;
+    font-weight: bold;
 }
 
 .cat-reference i
@@ -468,7 +467,7 @@ h2
 .item-desc h3
 {
     font-size: 16px;
-    line-height: 24px:;
+    line-height: 24px;
 }
 
 .item-desc b
